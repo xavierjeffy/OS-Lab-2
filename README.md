@@ -7,7 +7,7 @@
 My version of the banker's algorithm determines whether the system's state is in a safe 
 sequence or not, based on the allocated, maximum, available, and needed resources for 
 a set number of processes and resources with the values of each matrix being read in 
-from a text file. The algorithm iterates through processes and avaiable resources to
+from a text file. The algorithm iterates through processes and available resources to
 determine if the sequence is safe. If all of the processes can complete execution without
 causing deadlock, a safe sequence is identified.
 
